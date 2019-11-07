@@ -1,0 +1,15 @@
+.btn{
+    background-color: #668cff;
+    color: #fff;
+    border: 1px;
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 16px;
+    width: 70px;
+}
+.todomain .headers input{
+    padding: 6px;
+    font-size: 16px;
+    width:200px;
+    margin-top: 15px;
+}
